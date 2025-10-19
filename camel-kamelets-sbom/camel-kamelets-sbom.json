@@ -4610,11 +4610,11 @@
     },
     {
       "type" : "library",
-      "bom-ref" : "pkg:maven/org.apache.camel/camel-tooling-model@4.12.0?type=jar",
+      "bom-ref" : "pkg:maven/org.apache.camel/camel-tooling-model@4.14.0?type=jar",
       "publisher" : "The Apache Software Foundation",
       "group" : "org.apache.camel",
       "name" : "camel-tooling-model",
-      "version" : "4.12.0",
+      "version" : "4.14.0",
       "description" : "Tooling Model",
       "scope" : "required",
       "hashes" : [
@@ -4659,7 +4659,7 @@
           }
         }
       ],
-      "purl" : "pkg:maven/org.apache.camel/camel-tooling-model@4.12.0?type=jar",
+      "purl" : "pkg:maven/org.apache.camel/camel-tooling-model@4.14.0?type=jar",
       "externalReferences" : [
         {
           "type" : "website",
@@ -4681,11 +4681,11 @@
     },
     {
       "type" : "library",
-      "bom-ref" : "pkg:maven/org.apache.camel/camel-util-json@4.12.0?type=jar",
+      "bom-ref" : "pkg:maven/org.apache.camel/camel-util-json@4.14.0?type=jar",
       "publisher" : "The Apache Software Foundation",
       "group" : "org.apache.camel",
       "name" : "camel-util-json",
-      "version" : "4.12.0",
+      "version" : "4.14.0",
       "description" : "A JSON simple parser that preserves the ordering in Map as read from JSON source",
       "scope" : "required",
       "hashes" : [
@@ -4730,7 +4730,7 @@
           }
         }
       ],
-      "purl" : "pkg:maven/org.apache.camel/camel-util-json@4.12.0?type=jar",
+      "purl" : "pkg:maven/org.apache.camel/camel-util-json@4.14.0?type=jar",
       "externalReferences" : [
         {
           "type" : "website",
@@ -4752,11 +4752,11 @@
     },
     {
       "type" : "library",
-      "bom-ref" : "pkg:maven/org.apache.camel/camel-catalog@4.12.0?type=jar",
+      "bom-ref" : "pkg:maven/org.apache.camel/camel-catalog@4.14.0?type=jar",
       "publisher" : "The Apache Software Foundation",
       "group" : "org.apache.camel",
       "name" : "camel-catalog",
-      "version" : "4.12.0",
+      "version" : "4.14.0",
       "description" : "Camel Catalog",
       "scope" : "required",
       "hashes" : [
@@ -4801,7 +4801,7 @@
           }
         }
       ],
-      "purl" : "pkg:maven/org.apache.camel/camel-catalog@4.12.0?type=jar",
+      "purl" : "pkg:maven/org.apache.camel/camel-catalog@4.14.0?type=jar",
       "externalReferences" : [
         {
           "type" : "website",
@@ -4823,11 +4823,11 @@
     },
     {
       "type" : "library",
-      "bom-ref" : "pkg:maven/org.apache.camel/camel-core-catalog@4.12.0?type=jar",
+      "bom-ref" : "pkg:maven/org.apache.camel/camel-core-catalog@4.14.0?type=jar",
       "publisher" : "The Apache Software Foundation",
       "group" : "org.apache.camel",
       "name" : "camel-core-catalog",
-      "version" : "4.12.0",
+      "version" : "4.14.0",
       "description" : "The Camel Core Catalog",
       "scope" : "required",
       "hashes" : [
@@ -4872,7 +4872,7 @@
           }
         }
       ],
-      "purl" : "pkg:maven/org.apache.camel/camel-core-catalog@4.12.0?type=jar",
+      "purl" : "pkg:maven/org.apache.camel/camel-core-catalog@4.14.0?type=jar",
       "externalReferences" : [
         {
           "type" : "website",
@@ -4894,11 +4894,11 @@
     },
     {
       "type" : "library",
-      "bom-ref" : "pkg:maven/org.apache.camel/camel-api@4.12.0?type=jar",
+      "bom-ref" : "pkg:maven/org.apache.camel/camel-api@4.14.0?type=jar",
       "publisher" : "The Apache Software Foundation",
       "group" : "org.apache.camel",
       "name" : "camel-api",
-      "version" : "4.12.0",
+      "version" : "4.14.0",
       "description" : "The Camel API",
       "scope" : "required",
       "hashes" : [
@@ -4943,7 +4943,7 @@
           }
         }
       ],
-      "purl" : "pkg:maven/org.apache.camel/camel-api@4.12.0?type=jar",
+      "purl" : "pkg:maven/org.apache.camel/camel-api@4.14.0?type=jar",
       "externalReferences" : [
         {
           "type" : "website",
@@ -4965,11 +4965,11 @@
     },
     {
       "type" : "library",
-      "bom-ref" : "pkg:maven/org.apache.camel/camel-util@4.12.0?type=jar",
+      "bom-ref" : "pkg:maven/org.apache.camel/camel-util@4.14.0?type=jar",
       "publisher" : "The Apache Software Foundation",
       "group" : "org.apache.camel",
       "name" : "camel-util",
-      "version" : "4.12.0",
+      "version" : "4.14.0",
       "description" : "The Camel Utilities",
       "scope" : "required",
       "hashes" : [
@@ -5014,7 +5014,7 @@
           }
         }
       ],
-      "purl" : "pkg:maven/org.apache.camel/camel-util@4.12.0?type=jar",
+      "purl" : "pkg:maven/org.apache.camel/camel-util@4.14.0?type=jar",
       "externalReferences" : [
         {
           "type" : "website",
@@ -5224,11 +5224,11 @@
     },
     {
       "type" : "library",
-      "bom-ref" : "pkg:maven/org.apache.camel/camel-tooling-util@4.12.0?type=jar",
+      "bom-ref" : "pkg:maven/org.apache.camel/camel-tooling-util@4.14.0?type=jar",
       "publisher" : "The Apache Software Foundation",
       "group" : "org.apache.camel",
       "name" : "camel-tooling-util",
-      "version" : "4.12.0",
+      "version" : "4.14.0",
       "description" : "Tooling utilities",
       "scope" : "required",
       "hashes" : [
@@ -5273,7 +5273,7 @@
           }
         }
       ],
-      "purl" : "pkg:maven/org.apache.camel/camel-tooling-util@4.12.0?type=jar",
+      "purl" : "pkg:maven/org.apache.camel/camel-tooling-util@4.14.0?type=jar",
       "externalReferences" : [
         {
           "type" : "website",
@@ -8862,8 +8862,8 @@
         "pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.19.0?type=jar",
         "pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jsr310@2.19.0?type=jar",
         "pkg:maven/io.github.classgraph/classgraph@4.8.179?type=jar",
-        "pkg:maven/org.apache.camel/camel-tooling-model@4.12.0?type=jar",
-        "pkg:maven/org.apache.camel/camel-catalog@4.12.0?type=jar"
+        "pkg:maven/org.apache.camel/camel-tooling-model@4.14.0?type=jar",
+        "pkg:maven/org.apache.camel/camel-catalog@4.14.0?type=jar"
       ]
     },
     {
@@ -8891,40 +8891,40 @@
       "dependsOn" : [ ]
     },
     {
-      "ref" : "pkg:maven/org.apache.camel/camel-tooling-model@4.12.0?type=jar",
+      "ref" : "pkg:maven/org.apache.camel/camel-tooling-model@4.14.0?type=jar",
       "dependsOn" : [
-        "pkg:maven/org.apache.camel/camel-util-json@4.12.0?type=jar"
+        "pkg:maven/org.apache.camel/camel-util-json@4.14.0?type=jar"
       ]
     },
     {
-      "ref" : "pkg:maven/org.apache.camel/camel-util-json@4.12.0?type=jar",
+      "ref" : "pkg:maven/org.apache.camel/camel-util-json@4.14.0?type=jar",
       "dependsOn" : [ ]
     },
     {
-      "ref" : "pkg:maven/org.apache.camel/camel-catalog@4.12.0?type=jar",
+      "ref" : "pkg:maven/org.apache.camel/camel-catalog@4.14.0?type=jar",
       "dependsOn" : [
-        "pkg:maven/org.apache.camel/camel-core-catalog@4.12.0?type=jar",
-        "pkg:maven/org.apache.camel/camel-util-json@4.12.0?type=jar",
-        "pkg:maven/org.apache.camel/camel-tooling-model@4.12.0?type=jar"
+        "pkg:maven/org.apache.camel/camel-core-catalog@4.14.0?type=jar",
+        "pkg:maven/org.apache.camel/camel-util-json@4.14.0?type=jar",
+        "pkg:maven/org.apache.camel/camel-tooling-model@4.14.0?type=jar"
       ]
     },
     {
-      "ref" : "pkg:maven/org.apache.camel/camel-core-catalog@4.12.0?type=jar",
+      "ref" : "pkg:maven/org.apache.camel/camel-core-catalog@4.14.0?type=jar",
       "dependsOn" : [
-        "pkg:maven/org.apache.camel/camel-api@4.12.0?type=jar",
-        "pkg:maven/org.apache.camel/camel-tooling-model@4.12.0?type=jar"
+        "pkg:maven/org.apache.camel/camel-api@4.14.0?type=jar",
+        "pkg:maven/org.apache.camel/camel-tooling-model@4.14.0?type=jar"
       ]
     },
     {
-      "ref" : "pkg:maven/org.apache.camel/camel-api@4.12.0?type=jar",
+      "ref" : "pkg:maven/org.apache.camel/camel-api@4.14.0?type=jar",
       "dependsOn" : [
-        "pkg:maven/org.apache.camel/camel-util@4.12.0?type=jar",
+        "pkg:maven/org.apache.camel/camel-util@4.14.0?type=jar",
         "pkg:maven/org.slf4j/slf4j-api@2.0.17?type=jar",
         "pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api@4.0.2?type=jar"
       ]
     },
     {
-      "ref" : "pkg:maven/org.apache.camel/camel-util@4.12.0?type=jar",
+      "ref" : "pkg:maven/org.apache.camel/camel-util@4.14.0?type=jar",
       "dependsOn" : [
         "pkg:maven/org.slf4j/slf4j-api@2.0.17?type=jar"
       ]
@@ -8942,8 +8942,8 @@
     {
       "ref" : "pkg:maven/org.apache.camel.kamelets/kamelets-maven-plugin@4.13.0-SNAPSHOT?type=maven-plugin",
       "dependsOn" : [
-        "pkg:maven/org.apache.camel/camel-util@4.12.0?type=jar",
-        "pkg:maven/org.apache.camel/camel-tooling-util@4.12.0?type=jar",
+        "pkg:maven/org.apache.camel/camel-util@4.14.0?type=jar",
+        "pkg:maven/org.apache.camel/camel-tooling-util@4.14.0?type=jar",
         "pkg:maven/org.apache.maven.resolver/maven-resolver-api@2.0.9?type=jar",
         "pkg:maven/org.apache.maven/maven-core@3.9.10?type=jar",
         "pkg:maven/org.apache.maven/maven-artifact@3.9.10?type=jar",
@@ -8953,12 +8953,12 @@
         "pkg:maven/org.codehaus.plexus/plexus-container-default@2.1.1?type=jar",
         "pkg:maven/org.codehaus.plexus/plexus-utils@4.0.2?type=jar",
         "pkg:maven/commons-io/commons-io@2.19.0?type=jar",
-        "pkg:maven/org.apache.camel/camel-catalog@4.12.0?type=jar",
+        "pkg:maven/org.apache.camel/camel-catalog@4.14.0?type=jar",
         "pkg:maven/org.apache.camel.kamelets/camel-kamelets-catalog@4.13.0-SNAPSHOT?type=jar"
       ]
     },
     {
-      "ref" : "pkg:maven/org.apache.camel/camel-tooling-util@4.12.0?type=jar",
+      "ref" : "pkg:maven/org.apache.camel/camel-tooling-util@4.14.0?type=jar",
       "dependsOn" : [ ]
     },
     {

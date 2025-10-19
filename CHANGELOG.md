@@ -2,28 +2,28 @@
 
 ## [v4.10.5](https://github.com/apache/camel-kamelets/tree/v4.10.5) (2025-06-13)
 
-[Full Changelog](https://github.com/apache/camel-kamelets/compare/v4.12.0...v4.10.5)
+[Full Changelog](https://github.com/apache/camel-kamelets/compare/v4.14.0...v4.10.5)
 
 **Closed issues:**
 
 - Upgrade to 4.10.5 [\#2495](https://github.com/apache/camel-kamelets/issues/2495)
 - Remove random beer / coffee source [\#2485](https://github.com/apache/camel-kamelets/issues/2485)
-- Release 4.12.0 [\#2475](https://github.com/apache/camel-kamelets/issues/2475)
+- Release 4.14.0 [\#2475](https://github.com/apache/camel-kamelets/issues/2475)
 
-## [v4.12.0](https://github.com/apache/camel-kamelets/tree/v4.12.0) (2025-05-29)
+## [v4.14.0](https://github.com/apache/camel-kamelets/tree/v4.14.0) (2025-05-29)
 
-[Full Changelog](https://github.com/apache/camel-kamelets/compare/v4.10.4...v4.12.0)
+[Full Changelog](https://github.com/apache/camel-kamelets/compare/v4.10.4...v4.14.0)
 
 **Closed issues:**
 
 - Support TLS on RabbitMQ Kamelets [\#2476](https://github.com/apache/camel-kamelets/issues/2476)
-- Upgrade to Camel 4.12.0 [\#2474](https://github.com/apache/camel-kamelets/issues/2474)
+- Upgrade to Camel 4.14.0 [\#2474](https://github.com/apache/camel-kamelets/issues/2474)
 - Release 4.10.4 [\#2456](https://github.com/apache/camel-kamelets/issues/2456)
 - Upgrade to Camel 4.10.4 [\#2455](https://github.com/apache/camel-kamelets/issues/2455)
 
 **Merged pull requests:**
 
-- Upgrade Camel to version 4.12.0 [\#2480](https://github.com/apache/camel-kamelets/pull/2480) ([oscerd](https://github.com/oscerd))
+- Upgrade Camel to version 4.14.0 [\#2480](https://github.com/apache/camel-kamelets/pull/2480) ([oscerd](https://github.com/oscerd))
 - Bump org.postgresql:postgresql from 42.7.5 to 42.7.6 [\#2478](https://github.com/apache/camel-kamelets/pull/2478) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Support TLS on RabbitMQ Kamelets  [\#2477](https://github.com/apache/camel-kamelets/pull/2477) ([oscerd](https://github.com/oscerd))
 - Generated sources regen for SBOM [\#2473](https://github.com/apache/camel-kamelets/pull/2473) ([github-actions[bot]](https://github.com/apps/github-actions))

@@ -2501,11 +2501,11 @@
         </reference>
       </externalReferences>
     </component>
-    <component type="library" bom-ref="pkg:maven/org.apache.camel/camel-tooling-model@4.12.0?type=jar">
+    <component type="library" bom-ref="pkg:maven/org.apache.camel/camel-tooling-model@4.14.0?type=jar">
       <publisher>The Apache Software Foundation</publisher>
       <group>org.apache.camel</group>
       <name>camel-tooling-model</name>
-      <version>4.12.0</version>
+      <version>4.14.0</version>
       <description>Tooling Model</description>
       <scope>required</scope>
       <hashes>
@@ -2524,7 +2524,7 @@
           <url>https://www.apache.org/licenses/LICENSE-2.0</url>
         </license>
       </licenses>
-      <purl>pkg:maven/org.apache.camel/camel-tooling-model@4.12.0?type=jar</purl>
+      <purl>pkg:maven/org.apache.camel/camel-tooling-model@4.14.0?type=jar</purl>
       <externalReferences>
         <reference type="website">
           <url>https://www.apache.org/camel/camel-parent/tooling/camel-tooling-model/</url>
@@ -2540,11 +2540,11 @@
         </reference>
       </externalReferences>
     </component>
-    <component type="library" bom-ref="pkg:maven/org.apache.camel/camel-util-json@4.12.0?type=jar">
+    <component type="library" bom-ref="pkg:maven/org.apache.camel/camel-util-json@4.14.0?type=jar">
       <publisher>The Apache Software Foundation</publisher>
       <group>org.apache.camel</group>
       <name>camel-util-json</name>
-      <version>4.12.0</version>
+      <version>4.14.0</version>
       <description>A JSON simple parser that preserves the ordering in Map as read from JSON source</description>
       <scope>required</scope>
       <hashes>
@@ -2563,7 +2563,7 @@
           <url>https://www.apache.org/licenses/LICENSE-2.0</url>
         </license>
       </licenses>
-      <purl>pkg:maven/org.apache.camel/camel-util-json@4.12.0?type=jar</purl>
+      <purl>pkg:maven/org.apache.camel/camel-util-json@4.14.0?type=jar</purl>
       <externalReferences>
         <reference type="website">
           <url>https://www.apache.org/camel/camel-parent/tooling/camel-util-json/</url>
@@ -2579,11 +2579,11 @@
         </reference>
       </externalReferences>
     </component>
-    <component type="library" bom-ref="pkg:maven/org.apache.camel/camel-catalog@4.12.0?type=jar">
+    <component type="library" bom-ref="pkg:maven/org.apache.camel/camel-catalog@4.14.0?type=jar">
       <publisher>The Apache Software Foundation</publisher>
       <group>org.apache.camel</group>
       <name>camel-catalog</name>
-      <version>4.12.0</version>
+      <version>4.14.0</version>
       <description>Camel Catalog</description>
       <scope>required</scope>
       <hashes>
@@ -2602,7 +2602,7 @@
           <url>https://www.apache.org/licenses/LICENSE-2.0</url>
         </license>
       </licenses>
-      <purl>pkg:maven/org.apache.camel/camel-catalog@4.12.0?type=jar</purl>
+      <purl>pkg:maven/org.apache.camel/camel-catalog@4.14.0?type=jar</purl>
       <externalReferences>
         <reference type="website">
           <url>https://www.apache.org/camel/camel-parent/catalog/camel-catalog/</url>
@@ -2618,11 +2618,11 @@
         </reference>
       </externalReferences>
     </component>
-    <component type="library" bom-ref="pkg:maven/org.apache.camel/camel-core-catalog@4.12.0?type=jar">
+    <component type="library" bom-ref="pkg:maven/org.apache.camel/camel-core-catalog@4.14.0?type=jar">
       <publisher>The Apache Software Foundation</publisher>
       <group>org.apache.camel</group>
       <name>camel-core-catalog</name>
-      <version>4.12.0</version>
+      <version>4.14.0</version>
       <description>The Camel Core Catalog</description>
       <scope>required</scope>
       <hashes>
@@ -2641,7 +2641,7 @@
           <url>https://www.apache.org/licenses/LICENSE-2.0</url>
         </license>
       </licenses>
-      <purl>pkg:maven/org.apache.camel/camel-core-catalog@4.12.0?type=jar</purl>
+      <purl>pkg:maven/org.apache.camel/camel-core-catalog@4.14.0?type=jar</purl>
       <externalReferences>
         <reference type="website">
           <url>https://www.apache.org/camel/camel-parent/core/camel-core-catalog/</url>
@@ -2657,11 +2657,11 @@
         </reference>
       </externalReferences>
     </component>
-    <component type="library" bom-ref="pkg:maven/org.apache.camel/camel-api@4.12.0?type=jar">
+    <component type="library" bom-ref="pkg:maven/org.apache.camel/camel-api@4.14.0?type=jar">
       <publisher>The Apache Software Foundation</publisher>
       <group>org.apache.camel</group>
       <name>camel-api</name>
-      <version>4.12.0</version>
+      <version>4.14.0</version>
       <description>The Camel API</description>
       <scope>required</scope>
       <hashes>
@@ -2680,7 +2680,7 @@
           <url>https://www.apache.org/licenses/LICENSE-2.0</url>
         </license>
       </licenses>
-      <purl>pkg:maven/org.apache.camel/camel-api@4.12.0?type=jar</purl>
+      <purl>pkg:maven/org.apache.camel/camel-api@4.14.0?type=jar</purl>
       <externalReferences>
         <reference type="website">
           <url>https://www.apache.org/camel/camel-parent/core/camel-api/</url>
@@ -2696,11 +2696,11 @@
         </reference>
       </externalReferences>
     </component>
-    <component type="library" bom-ref="pkg:maven/org.apache.camel/camel-util@4.12.0?type=jar">
+    <component type="library" bom-ref="pkg:maven/org.apache.camel/camel-util@4.14.0?type=jar">
       <publisher>The Apache Software Foundation</publisher>
       <group>org.apache.camel</group>
       <name>camel-util</name>
-      <version>4.12.0</version>
+      <version>4.14.0</version>
       <description>The Camel Utilities</description>
       <scope>required</scope>
       <hashes>
@@ -2719,7 +2719,7 @@
           <url>https://www.apache.org/licenses/LICENSE-2.0</url>
         </license>
       </licenses>
-      <purl>pkg:maven/org.apache.camel/camel-util@4.12.0?type=jar</purl>
+      <purl>pkg:maven/org.apache.camel/camel-util@4.14.0?type=jar</purl>
       <externalReferences>
         <reference type="website">
           <url>https://www.apache.org/camel/camel-parent/core/camel-util/</url>
@@ -2848,11 +2848,11 @@
         </reference>
       </externalReferences>
     </component>
-    <component type="library" bom-ref="pkg:maven/org.apache.camel/camel-tooling-util@4.12.0?type=jar">
+    <component type="library" bom-ref="pkg:maven/org.apache.camel/camel-tooling-util@4.14.0?type=jar">
       <publisher>The Apache Software Foundation</publisher>
       <group>org.apache.camel</group>
       <name>camel-tooling-util</name>
-      <version>4.12.0</version>
+      <version>4.14.0</version>
       <description>Tooling utilities</description>
       <scope>required</scope>
       <hashes>
@@ -2871,7 +2871,7 @@
           <url>https://www.apache.org/licenses/LICENSE-2.0</url>
         </license>
       </licenses>
-      <purl>pkg:maven/org.apache.camel/camel-tooling-util@4.12.0?type=jar</purl>
+      <purl>pkg:maven/org.apache.camel/camel-tooling-util@4.14.0?type=jar</purl>
       <externalReferences>
         <reference type="website">
           <url>https://www.apache.org/camel/camel-parent/tooling/camel-tooling-util/</url>
@@ -4949,8 +4949,8 @@ file comparators, endian transformation classes, and much more.</description>
       <dependency ref="pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.19.0?type=jar"/>
       <dependency ref="pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jsr310@2.19.0?type=jar"/>
       <dependency ref="pkg:maven/io.github.classgraph/classgraph@4.8.179?type=jar"/>
-      <dependency ref="pkg:maven/org.apache.camel/camel-tooling-model@4.12.0?type=jar"/>
-      <dependency ref="pkg:maven/org.apache.camel/camel-catalog@4.12.0?type=jar"/>
+      <dependency ref="pkg:maven/org.apache.camel/camel-tooling-model@4.14.0?type=jar"/>
+      <dependency ref="pkg:maven/org.apache.camel/camel-catalog@4.14.0?type=jar"/>
     </dependency>
     <dependency ref="pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.19.0?type=jar">
       <dependency ref="pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.19.0?type=jar"/>
@@ -4964,25 +4964,25 @@ file comparators, endian transformation classes, and much more.</description>
       <dependency ref="pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.19.0?type=jar"/>
     </dependency>
     <dependency ref="pkg:maven/io.github.classgraph/classgraph@4.8.179?type=jar"/>
-    <dependency ref="pkg:maven/org.apache.camel/camel-tooling-model@4.12.0?type=jar">
-      <dependency ref="pkg:maven/org.apache.camel/camel-util-json@4.12.0?type=jar"/>
+    <dependency ref="pkg:maven/org.apache.camel/camel-tooling-model@4.14.0?type=jar">
+      <dependency ref="pkg:maven/org.apache.camel/camel-util-json@4.14.0?type=jar"/>
     </dependency>
-    <dependency ref="pkg:maven/org.apache.camel/camel-util-json@4.12.0?type=jar"/>
-    <dependency ref="pkg:maven/org.apache.camel/camel-catalog@4.12.0?type=jar">
-      <dependency ref="pkg:maven/org.apache.camel/camel-core-catalog@4.12.0?type=jar"/>
-      <dependency ref="pkg:maven/org.apache.camel/camel-util-json@4.12.0?type=jar"/>
-      <dependency ref="pkg:maven/org.apache.camel/camel-tooling-model@4.12.0?type=jar"/>
+    <dependency ref="pkg:maven/org.apache.camel/camel-util-json@4.14.0?type=jar"/>
+    <dependency ref="pkg:maven/org.apache.camel/camel-catalog@4.14.0?type=jar">
+      <dependency ref="pkg:maven/org.apache.camel/camel-core-catalog@4.14.0?type=jar"/>
+      <dependency ref="pkg:maven/org.apache.camel/camel-util-json@4.14.0?type=jar"/>
+      <dependency ref="pkg:maven/org.apache.camel/camel-tooling-model@4.14.0?type=jar"/>
     </dependency>
-    <dependency ref="pkg:maven/org.apache.camel/camel-core-catalog@4.12.0?type=jar">
-      <dependency ref="pkg:maven/org.apache.camel/camel-api@4.12.0?type=jar"/>
-      <dependency ref="pkg:maven/org.apache.camel/camel-tooling-model@4.12.0?type=jar"/>
+    <dependency ref="pkg:maven/org.apache.camel/camel-core-catalog@4.14.0?type=jar">
+      <dependency ref="pkg:maven/org.apache.camel/camel-api@4.14.0?type=jar"/>
+      <dependency ref="pkg:maven/org.apache.camel/camel-tooling-model@4.14.0?type=jar"/>
     </dependency>
-    <dependency ref="pkg:maven/org.apache.camel/camel-api@4.12.0?type=jar">
-      <dependency ref="pkg:maven/org.apache.camel/camel-util@4.12.0?type=jar"/>
+    <dependency ref="pkg:maven/org.apache.camel/camel-api@4.14.0?type=jar">
+      <dependency ref="pkg:maven/org.apache.camel/camel-util@4.14.0?type=jar"/>
       <dependency ref="pkg:maven/org.slf4j/slf4j-api@2.0.17?type=jar"/>
       <dependency ref="pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api@4.0.2?type=jar"/>
     </dependency>
-    <dependency ref="pkg:maven/org.apache.camel/camel-util@4.12.0?type=jar">
+    <dependency ref="pkg:maven/org.apache.camel/camel-util@4.14.0?type=jar">
       <dependency ref="pkg:maven/org.slf4j/slf4j-api@2.0.17?type=jar"/>
     </dependency>
     <dependency ref="pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api@4.0.2?type=jar">
@@ -4990,8 +4990,8 @@ file comparators, endian transformation classes, and much more.</description>
     </dependency>
     <dependency ref="pkg:maven/jakarta.activation/jakarta.activation-api@2.1.3?type=jar"/>
     <dependency ref="pkg:maven/org.apache.camel.kamelets/kamelets-maven-plugin@4.13.0-SNAPSHOT?type=maven-plugin">
-      <dependency ref="pkg:maven/org.apache.camel/camel-util@4.12.0?type=jar"/>
-      <dependency ref="pkg:maven/org.apache.camel/camel-tooling-util@4.12.0?type=jar"/>
+      <dependency ref="pkg:maven/org.apache.camel/camel-util@4.14.0?type=jar"/>
+      <dependency ref="pkg:maven/org.apache.camel/camel-tooling-util@4.14.0?type=jar"/>
       <dependency ref="pkg:maven/org.apache.maven.resolver/maven-resolver-api@2.0.9?type=jar"/>
       <dependency ref="pkg:maven/org.apache.maven/maven-core@3.9.10?type=jar"/>
       <dependency ref="pkg:maven/org.apache.maven/maven-artifact@3.9.10?type=jar"/>
@@ -5001,10 +5001,10 @@ file comparators, endian transformation classes, and much more.</description>
       <dependency ref="pkg:maven/org.codehaus.plexus/plexus-container-default@2.1.1?type=jar"/>
       <dependency ref="pkg:maven/org.codehaus.plexus/plexus-utils@4.0.2?type=jar"/>
       <dependency ref="pkg:maven/commons-io/commons-io@2.19.0?type=jar"/>
-      <dependency ref="pkg:maven/org.apache.camel/camel-catalog@4.12.0?type=jar"/>
+      <dependency ref="pkg:maven/org.apache.camel/camel-catalog@4.14.0?type=jar"/>
       <dependency ref="pkg:maven/org.apache.camel.kamelets/camel-kamelets-catalog@4.13.0-SNAPSHOT?type=jar"/>
     </dependency>
-    <dependency ref="pkg:maven/org.apache.camel/camel-tooling-util@4.12.0?type=jar"/>
+    <dependency ref="pkg:maven/org.apache.camel/camel-tooling-util@4.14.0?type=jar"/>
     <dependency ref="pkg:maven/org.apache.maven.resolver/maven-resolver-api@2.0.9?type=jar"/>
     <dependency ref="pkg:maven/org.apache.maven/maven-core@3.9.10?type=jar">
       <dependency ref="pkg:maven/org.apache.maven/maven-model@3.9.10?type=jar"/>
